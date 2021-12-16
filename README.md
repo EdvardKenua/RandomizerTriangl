@@ -1,2 +1,2 @@
-# RandomizerTriangl
+# RandomizerTriangle
 Рандомным образов создает треугольники разного цвета
